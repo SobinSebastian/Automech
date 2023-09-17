@@ -1,2 +1,3 @@
 # Automech
 Auto Mech -Roadside assistance &amp; Car Service Centre Management System
+car service centre management system includes products that assist automotive technicians with car repair procedures and office tasks and roadside assistance. Car service center (e.g. bodyshop, inspection, collision repair) utilize these tools to manage vehicle databases and track information, such as repair history, maintenance schedules, job estimates, and various diagnostics, as well as repair mapping and ordering parts. Managers can also use system to organize and communicate with their workforce. the system provide tools for billing, accounting and inventory management, Users can use the system to estimate the cost for car repairs and get roadside assistance.
